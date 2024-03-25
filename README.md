@@ -1,0 +1,1 @@
+## Installation```stMetacello new	repository: 'github://knutsoned/bevy_gt_test:main/src';	baseline: 'BevyGtTest';	load```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfBevyGtTest asClass loadLepiter```
